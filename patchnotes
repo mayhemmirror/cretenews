@@ -1,12 +1,17 @@
-[
-  {
-    "version": "1.2.0",
-    "date": "2025-06-09",
-    "notes": "Fixed critical bugs and added 3 new levels."
-  },
-  {
-    "version": "1.1.5",
-    "date": "2025-05-20",
-    "notes": "Improved performance and UI polish."
-  }
-]
+• Many updates and bugfixes related to multiplayer.
+• Hit traces now take in consideration the client, providing a more responsive dodge, block or out of range experience when playing with ping.
+• Hit stop is now multicast, having a smoother hitstop when playing as client.
+• Some abilities now will check the client status and trust the client.
+• Slammer jump attack now stops tracking 0.3 seconds before the landing.
+• Slammer jump attack now predicts player potential location on landing.
+• Slammer jump attack now telegraphs the AOE of landing.
+• New FX for most AOE physical attacks from Ancestors.
+• New telegraphing for some AOE attacks.
+• New FX set for physical floor impacts.
+• Fixed a bug where the distance of some AOE was not correct. Now it is consistent, having some of them telegraphed.
+• AOE Guardian attacks have a damage gradient from 2 blood slots to 0.25 in the maximum distance.
+• Increased the chances of Guardians to execute a Melee attacks against an Spear attack.
+• Fixed the distances of some Melee attacks
+• Polished some hit traces windows in some attacks.
+• Polished some rotation rates in some attacks.
+• Fixed some collisions in some assets
