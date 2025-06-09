@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.2.0",
+    "date": "2025-06-09",
+    "notes": "Fixed critical bugs and added 3 new levels."
+  },
+  {
+    "version": "1.1.5",
+    "date": "2025-05-20",
+    "notes": "Improved performance and UI polish."
+  }
+]
