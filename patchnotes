@@ -1,17 +1,16 @@
-• Many updates and bugfixes related to multiplayer.
-• Hit traces now take in consideration the client, providing a more responsive dodge, block or out of range experience when playing with ping.
-• Hit stop is now multicast, having a smoother hitstop when playing as client.
-• Some abilities now will check the client status and trust the client.
-• Slammer jump attack now stops tracking 0.3 seconds before the landing.
-• Slammer jump attack now predicts player potential location on landing.
-• Slammer jump attack now telegraphs the AOE of landing.
-• New FX for most AOE physical attacks from Ancestors.
-• New telegraphing for some AOE attacks.
-• New FX set for physical floor impacts.
-• Fixed a bug where the distance of some AOE was not correct. Now it is consistent, having some of them telegraphed.
-• AOE Guardian attacks have a damage gradient from 2 blood slots to 0.25 in the maximum distance.
-• Increased the chances of Guardians to execute a Melee attacks against an Spear attack.
-• Fixed the distances of some Melee attacks
-• Polished some hit traces windows in some attacks.
-• Polished some rotation rates in some attacks.
-• Fixed some collisions in some assets
+- Tartarus Pit leadership reset
+- New scores added to the entrance of Tartarus.
+
+- Base dodge i-frames is now 0.25 instead of 0.2. Velocitina core still adding 0.1 seconds to the base iframes, clamped to 1 sec max (full animation).
+- Fixed Klymene arrows flashes and materials.
+- Fixed some bright materials in Ancestor's armors.
+- Fixed some settings not saved properly
+- Added new settings
+- Removed the min clamp in some settings such as Post Process or FX
+- Important performance updates in the basecamp
+
+Not available but moving forward:
+
+- More steps added in the new intro tutorial
+- More steps added in Jun mission
+- More logic implemented for Jun
