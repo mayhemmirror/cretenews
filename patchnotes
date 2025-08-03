@@ -14,7 +14,7 @@ You can always check the experimental version by doing this: Steam CRETE app > p
 - Fixed a bug with ATP-ability build-up
 - Velocitina Melee now has an impact on how fast you can cancel/dodge after succesfully hitting with Melee
 - Fixed some bugs showing wrong numbers of abilities percentages
-- Energytina Core now "Increases energy recovery, speeds up ability build-up and improves energy perversation."
+- Energytina Core now "Increases energy recovery, speeds up ability build-up and improves energy preservation."
 
 
 - Bone Nest buff. Before the damage multiplier was based in how low health the enemies were; now it also considers if their skin protection is low, making the ability more versatile against breakers or other ways of damaging skin/armor.
