@@ -1,21 +1,23 @@
 
 Leaderboards have been reset
 
-*Tartarus Pit Season 5*
+Combat
 
-We’re restarting the Tartarus Pit seasons! From now until November 16th, you have the chance to prove yourself as the best contender on the Tartarus Leaderboard.
-The first-place champion will have their name immortalised in gold on the Entrance Tablets of the Tartarus Pit. The runner-up will also be honored, their name engraved in silver on the Second Tablet.
-Go solo, form a team, or show off your most creative setups and masterfully engineered weapons.
-Play fair, Hephaestus is watching.
+Range armor damage in Adrenaline reduced from x5 to x3.
+Melee armor damage in Adrenaline increased from x2 to x3 (Now Melee and Range adrenaline vs armor bonus is the same, making Melee extra powerful against armor).
+Range energy base recovery is now weighted. From being only based on base damage, now is 3/4 based damage, 1/4 final damage. This will make energy recovery more powerful when enemies receive more final damage (after mitigations such as skin, metal skin, armor, and other).
 
-*Updates* 
+Leaderboards
 
-- Many new assets related to Biomes, including grass, rocks, boulders, walls, etc. Please, keep in mind that Biomes will be reworked, and this may lead to some visual and or/ collision problems until the work is completely done.
-- New Work in Progress Valvida added.
-- New Leaderboards info and details.
-- Library items return to their original prices.
-- New set dressing and layout started in some areas.
-- Tartarus entrance improvements and set dress.
-- New procedural materials.
-- New Tartarus songs, work in progress.
+Added number of players.
+
+Level design
+
+Removed some legacy doors in some rooms.
+
+Fixes
+
+Potential fixes to improve fps in Tartarus. This is not yet guaranteed, but it is the first of many steps.
+Fixed a bu where you could accidentally delete the wrong design if you sort them by name first.
+Now the sort by stays after deleting a design.
 
