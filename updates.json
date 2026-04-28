@@ -1,3 +1,13 @@
 {
-    "1": "Welcome to CRETE! Working in a hotfix, there are some issues related to the Bio-Lab that doesn't refresh the menus"
+    "1": "28/04 Patchnotes:
+- Brontes damage calculation adjustments, focused in skin mitigation.
+- Fixed Headshot Precisiline in Brontes when using range weapons
+- Brontes Tower new post processes and look dev
+- Brontes Tower new spawners
+- Brontes scream number of calls reduced by difficulty and or need of Brontes.
+- Brontes more SFX and FX in most abilities.
+- Brontes ability to cancel long abilities in case of danger added.
+- Brontes regen per sacrifice reduced from 15 to 10
+- Added all embrios to the arena
+- New cutscene (WIP)"
 }
