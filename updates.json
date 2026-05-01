@@ -1,13 +1,37 @@
 {
-    "1": "28/04 Patchnotes:
-- Brontes damage calculation adjustments, focused in skin mitigation.
-- Fixed Headshot Precisiline in Brontes when using range weapons
-- Brontes Tower new post processes and look dev
-- Brontes Tower new spawners
-- Brontes scream number of calls reduced by difficulty and or need of Brontes.
-- Brontes more SFX and FX in most abilities.
-- Brontes ability to cancel long abilities in case of danger added.
-- Brontes regen per sacrifice reduced from 15 to 10
-- Added all embrios to the arena
-- New cutscene (WIP)"
+    "1": "OTUS CHAOS LEAGUE RESET
+Winners added to the tables
+From now to the 1st of June we start a new league where the 1st and 2nd in the Otus Chaos leaderboard will get their names in the entrance tablets.
+Hardcore and Otus Chaos leaderboards reset
+
+Brontes
+
+Fixed Brontes knockback stopping its AI/Abilities
+Added reverb in Brontes Arena
+Improved camera shake, audio and VFX in Brontes knockdown
+
+Atlanteans
+
+Fixed a camera shake that will persist after death
+Charged Slam won't hit players and/or enemies if there is blocking object
+Shockwave won't hit players and/or enemies if there is blocking object
+Material improvement to see better its skin damage and difficulty
+Improved the emmisives to adjust to different exposition levels
+Valvida is destroyed instanly after death to avoid flickering
+Head stops tracking after death
+
+Biomes
+
+Weather SFX are now premixed with a dynamic filter overlapped SFX don't have volume spikes.
+Collision improvements in some grounds
+
+UI
+
+Made the menu patchnotes text to wrap in the size box.
+Made all the backgrounds to use the same palette unifying materials.
+
+Combat
+
+Biopiercer base damage increased from 2.2 to 2.3
+Septum base damage increased from 1.6 to 1.7"
 }
