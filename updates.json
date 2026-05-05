@@ -1,5 +1,14 @@
 {
-    "1": "OTUS CHAOS LEAGUE RESET
+    "1":
+05/05 Patchnotes
+
+- Fixed collisions not working in some destructible objects
+- Polished step on objects in some objects.
+- Added additive animations on Atlanteans hitstops
+- Fixed headshot damage not using the built headshot value
+- Fixed resolution coming back to windowed
+    
+"OTUS CHAOS LEAGUE RESET
 Winners added to the tables
 From now to the 1st of June we start a new league where the 1st and 2nd in the Otus Chaos leaderboard will get their names in the entrance tablets.
 Hardcore and Otus Chaos leaderboards reset
